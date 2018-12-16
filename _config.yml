@@ -6,7 +6,7 @@ url: "https://alextakahashi.github.io/" # the base hostname & protocol for your 
 
 # User settings
 username: Alex Takahashi
-user_description: iOS Engineer 
+user_description: iOS Engineer
 user_title: iOS Engineer
 email: alextakahashi@berkeley.edu
 twitter_username: lorem_ipsum
@@ -38,6 +38,8 @@ links:
     url: /tags
   - title: About Me
     url: /about
+  - title: Test
+    url: /test
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
