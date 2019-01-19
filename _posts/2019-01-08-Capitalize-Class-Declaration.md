@@ -30,7 +30,7 @@ class myClass {
 }
 ```
 
-I remember making this mistake even when I was just starting as a Junior Developer, unfortunately it lead to significant debugging session with a senior developer!  If you are currently maintaining a project, take a quick glance at your code and see if you are following the style recommended for your language.  More experienced developers can run linters that check your code style for you!  
+I remember making this mistake even when I was just starting as a Junior Developer. Unfortunately, it lead to a significant debugging session with a senior developer!  If you are currently maintaining a project, take a quick glance at your code and see if you are following the style recommended for your language.  More experienced developers can run linters that check your code style for you!  
 
 ## Call to Action
 
