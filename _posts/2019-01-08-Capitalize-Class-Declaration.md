@@ -34,7 +34,7 @@ I remember making this mistake even when I was just starting as a Junior Develop
 
 ## Call to Action
 
-- [ ] Check out the style guide for your language.  Here is the raywenderlich [swift style guide](https://github.com/raywenderlich/swift-style-guide)
-- [ ] Skim through your code base, are all your class declarations capitalized?
+- Check out the style guide for your language.  Here is the raywenderlich [swift style guide](https://github.com/raywenderlich/swift-style-guide)
+- Skim through your code base, are all your class declarations capitalized?
 
 I hope you learned a little more about styling your code!
