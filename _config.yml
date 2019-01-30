@@ -1,6 +1,6 @@
 # Site settings
 title: Alex Takahashi's Software Engineering Portfolio
-description: A blog about lorem ipsum dolor sit amet
+description: 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://alextakahashi.github.io/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
