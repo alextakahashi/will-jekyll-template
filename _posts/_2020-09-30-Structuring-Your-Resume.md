@@ -14,9 +14,32 @@ categories:
 
 # Structuring Your Resume and Why It Matters
 
-> TL;DR - The first impression of your resume **sets the bar for the recruitment process**.  Following a **predictable + impact forward** approach will help recruitment know quickly if you are a prime candidate for the job role.  Your resume needs these in the following order: Contact Info, Education, Skills, Professional Experience, Project Experience, Awards/Acknolwedgements
+> TL;DR - The first impression of your resume **sets the bar for the recruitment process**.  Following a **predictable + impact forward** approach will help recruitment know quickly if you are a prime candidate for the job role.
 
 NOTE: This post is primarily geared toward university grads entering a technical field, but these principles can be applied to any resume.
+
+## Resume Sections + Ordering
+
+Your resume needs the below in the following order.  I will be diving deeper into each section later in this post. 
+
+1. Contact Information
+2. Education
+3. Skills
+4. Professional Experience
+5. Projects
+6. Awards/Acknolwedgements
+
+## Contact Information
+
+## Education
+
+## Skills
+
+## Professional Experience
+
+## Projects
+
+## Awards/Acknolwedgements
 
 —-
 
