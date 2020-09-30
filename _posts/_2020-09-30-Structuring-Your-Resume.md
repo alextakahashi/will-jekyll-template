@@ -31,6 +31,18 @@ Your resume needs the below in the following order.  I will be diving deeper int
 
 ## Contact Information
 
+> Q. Who is the person I am reading about?  Do I have a way of contacting him if there is a match?
+
+* [ ] Name
+* [ ] Phone Number
+* [ ] Email
+
+> Q. Can I find additional material to learn more about the candidate?
+
+* [ ] Personal Website
+* [ ] Github
+* [ ] LinkedIn
+
 ## Education
 
 ## Skills
