@@ -57,9 +57,9 @@ This determines how soon you are eligible for Full Time Work.  Recruiters want t
 
 > Q. What courses were taken to support this person as a strong candidate?
 
-Only include courses that speak to the role you're applying to.  Definitely include your techinal courses, *Data Structures + Algorithms*, *Linear Algebra*, *Discrete Math*, etc.  Do not include introduction courses + irrelevant courses (**Intro to Japanese**, **Intro to Python**).  Use generalized course names - not their number.  Recruiters will not know what CS170 is, explicitly mention as Efficient Algorithms.
+Only include courses that speak to the role you're applying to.  Definitely include your techinal courses, *Data Structures + Algorithms*, *Linear Algebra*, *Discrete Math*, etc.  Do not include introduction courses + irrelevant courses (*Intro to Japanese*, *Intro to Python*).  Use generalized course names - not their number.  Recruiters will not know what CS170 is, explicitly mention as Efficient Algorithms.
 
-> Q. Is GPA Mentioned on the resume?
+> Q. Is GPA mentioned on the resume?
 
 GPA is not required especially for the technical field.  GPA is not necessarily a good indicator if someone will be successful for the job - your Work Experience + Professional Experience should make up for any GPA gaps.  Only include your GPA if its strong (3.0+).  
 
@@ -71,9 +71,9 @@ I kept my GPA off my resume - admittedly I did not do so hot in college grade wi
 
 This section can sound like a laundry list.  Your Work + Project Experience should go in depth about some of the tools that are listed.
 
-* Languages: Put the language you are most comfortable with first.  Follow with other languages you are familiar with / would be comfortable talking about in case recruitment / engineers ask specific questions.
-* Frameworks: Put common Libraries that you use.  Ex: UIKit, XCTest
-* Tools: Put other tools you've used, Postman, Git Clients, Package Managers, etc.
+* *Languages*: Put the language you are most comfortable with first.  Follow with other languages you are familiar with / would be comfortable talking about in case recruitment / engineers ask specific questions.
+* *Frameworks*: Put common Libraries that you use.  Ex: UIKit, XCTest
+* *Tools*: Put other tools you've used, Postman, Git Clients, Package Managers, etc.
 
 These buckets can be bundled together however you think makes logical sense + looks clean on your resume.
 
